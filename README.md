@@ -7,6 +7,11 @@
 ## About Me
 I excel in creating visually appealing, user-friendly interfaces and developing seamless, efficient websites. Known for my attention to detail and ability to collaborate effectively, I am dedicated to delivering high-quality digital solutions. I am eager to apply my creativity and technical skills to new challenges and innovative projects.
 
+
+![Aathifmhd's Stats](https://github-readme-stats.vercel.app/api?username=Aathifmhd&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+
+
 ## 🛠️ Languages and Tools
 
 ### **Languages**
