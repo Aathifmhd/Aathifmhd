@@ -9,6 +9,7 @@ I excel in creating visually appealing, user-friendly interfaces and developing 
 
 
 ![Aathifmhd's Stats](https://github-readme-stats.vercel.app/api?username=Aathifmhd&theme=radical&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aathifmhd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
