@@ -2,7 +2,11 @@
 
 <h3 align="center">Developer | UI/UX Designer</h3>
 
-<p> I am a passionate graphic designer and web developer with a strong foundation in both design and computer science. Undergraduate in Ruhuna University of Sri Lanka.</p>
+<p>UI/UX Designer focused on crafting clean, intuitive, and trend-forward digital experiences. With a background in Computer Science and hands-on frontend development skills, I bring both creativity and functionality into every project I work on.
+
+Skilled in visual storytelling, competitive analysis, and responsive UI design, I strive to design solutions that not only look great but also solve real user problems effectively.
+
+When I’m designing, I genuinely enjoy the process — especially with a warm cup of tea by my side. It’s in those focused, quiet moments that the best ideas often flow.</p>
 
 ## About Me
 I excel in creating visually appealing, user-friendly interfaces and developing seamless, efficient websites. Known for my attention to detail and ability to collaborate effectively, I am dedicated to delivering high-quality digital solutions. I am eager to apply my creativity and technical skills to new challenges and innovative projects.
