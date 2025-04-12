@@ -2,11 +2,18 @@
 
 <h3 align="center">Developer | UI/UX Designer</h3>
 
-<p>UI/UX Designer focused on crafting clean, intuitive, and trend-forward digital experiences. With a background in Computer Science and hands-on frontend development skills, I bring both creativity and functionality into every project I work on.
+<p>✨ Crafting clean, intuitive, and trend-forward digital experiences that marry aesthetics with functionality. With a Computer Science background and hands-on frontend dev skills, I bridge the gap between design and code—ensuring pixel-perfect, user-centric solutions.
 
-Skilled in visual storytelling, competitive analysis, and responsive UI design, I strive to design solutions that not only look great but also solve real user problems effectively.
+🔍 Skilled in:
+✔ Visual Storytelling – Turning ideas into compelling narratives
+✔ Competitive Analysis – Designing with strategy & insight
+✔ Responsive UI Design – Seamless experiences across all devices
 
-When I’m designing, I genuinely enjoy the process — especially with a warm cup of tea by my side. It’s in those focused, quiet moments that the best ideas often flow.</p>
+💡 I thrive on solving real user problems—because great design isn’t just pretty; it’s purposeful.
+
+☕ My creative fuel? A quiet moment, a warm cup of tea, and the thrill of bringing ideas to life. That’s when the magic happens.
+
+🚀 Let’s design something extraordinary together!</p>
 
 ## About Me
 I excel in creating visually appealing, user-friendly interfaces and developing seamless, efficient websites. Known for my attention to detail and ability to collaborate effectively, I am dedicated to delivering high-quality digital solutions. I am eager to apply my creativity and technical skills to new challenges and innovative projects.
