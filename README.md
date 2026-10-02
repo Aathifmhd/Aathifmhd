@@ -1,80 +1,41 @@
-## Hi 👋 I'm Mohamed Aathif,
+<div align="center">
+Mohamed Aathif
+Software Engineer · Computer Science Undergraduate · UX Designer at Orbit360
 
-<h3 align="center">Developer | UI/UX Designer</h3>
+Kandy, Sri Lanka
 
-<p>✨ Crafting clean, intuitive, and trend-forward digital experiences that marry aesthetics with functionality. With a Computer Science background and hands-on frontend dev skills, I bridge the gap between design and code—ensuring pixel-perfect, user-centric solutions.
+Portfolio  ·  LinkedIn  ·  Email  ·  Behance  ·  Résumé
 
-🔍 Skilled in:
-✔ Visual Storytelling – Turning ideas into compelling narratives
-✔ Competitive Analysis – Designing with strategy & insight
-✔ Responsive UI Design – Seamless experiences across all devices
+</div>
+About
+Computer Science undergraduate at the University of Ruhuna with 1+ years of hands-on UX design experience, now transitioning into software engineering. I translate user requirements into structured, technically sound interfaces, and I've worked alongside developers throughout the build process. I'm currently building my backend skills in PHP and Laravel to grow into a full-stack contributor.
 
-💡 I thrive on solving real user problems—because great design isn’t just pretty; it’s purposeful.
+Now: UX Designer (Associate) at Orbit360, and shipping a production ERP & POS for a 5-terminal hardware store
+Learning: PHP and Laravel for full-stack work
+Open to: software engineering roles
+Experience
+Role	Company	Period
+UX Designer — Associate	Orbit360 (Pvt) Ltd	Feb 2026 – Present
+UX Designer — Intern (Hybrid)	Orbit360 (Pvt) Ltd	Feb 2025 – Feb 2026
+Education
+Bachelor of Computer Science — University of Ruhuna  ·  2022 – 2025  ·  graduating Dec 2026
 
-☕ My creative fuel? A quiet moment, a warm cup of tea, and the thrill of bringing ideas to life. That’s when the magic happens.
-
-🚀 Let’s design something extraordinary together!</p>
-
-## About Me
-I excel in creating visually appealing, user-friendly interfaces and developing seamless, efficient websites. Known for my attention to detail and ability to collaborate effectively, I am dedicated to delivering high-quality digital solutions. I am eager to apply my creativity and technical skills to new challenges and innovative projects.
-<br><br>
-My Personal Website : <a href="https://aathifmhd-portfolio.web.app/">https://aathifmhd-portfolio.web</a>
-<br><br>
-
-![Aathifmhd's Stats](https://github-readme-stats.vercel.app/api?username=Aathifmhd&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![Aathifmhd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aathifmhd&theme=radical&hide_border=false)
-
-
-## 🛠️ Languages and Tools
-
-### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-
-### **Frontend Tools**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-
-### **Backend Tools**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### **Other Tools**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### **Designing Tools**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-
----
-
-<h3 align="left">Connect With Me:</h3>
-  <a href="https://www.linkedin.com/in/mohammed-aathif-164429269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img style="padding-right:30;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100007210519097&mibextid=ZbWKwL" target="blank">
-    <img style="padding-right:30;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/invites/contact/?igsh=12bi05f8asusi&utm_content=qa96cts"  target="blank">
-    <img style="padding-right:30;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-
+Tech Stack
+Area	Tools
+Frontend	<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" height="40" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />
+Backend	<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql" height="40" alt="Node.js, NestJS, PHP, MySQL" />   RESTful API design
+Tools	<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="40" alt="Git, GitHub, Postman, VS Code" />
+Design	<img src="https://skillicons.dev/icons?i=figma,xd,ai" height="40" alt="Figma, Adobe XD, Adobe Illustrator" />
+AI tools	GitHub Copilot · ChatGPT · Claude — AI-assisted development and debugging
+Ways of working	Agile · Cross-functional collaboration
+Featured Projects
+Project	What it is	Stack	Links
+Regal Hardware ERP & POS	Odoo-based POS and custom ERP for a 5-terminal hardware store — legacy data migration, invoice redesign, fingerprint attendance & payroll, SMS billing, and an online store that feeds orders into the ERP	Odoo · PHP · MySQL · JavaScript	Store · POS demo
+Exam Management System	Secure exam workflow system for the Department of Computer Science — role-based access, automated grading, result publishing, encrypted data	React · Spring Boot · MySQL	Repo
+Gloss Workx	Car detailing business site with a booking form automated through Google Apps Script	React · Apps Script	Live
+YYR International Trading	Multi-service site for real estate, brokerage and retail with a Firebase admin panel	React · Firebase	Live
+Veloura	Luxury retail storefront with owner-editable listings, category filters and WhatsApp ordering	React	Live
+Amore Ice Cream	Outreach website for a local café and gelato shop	React	Live
+GitHub Activity
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Aathifmhd&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" /> <img src="https://streak-stats.demolab.com/?user=Aathifmhd&background=FFFFFF&border=E3E8EF&stroke=E3E8EF&ring=2563EB&fire=2563EB&currStreakNum=0B1220&sideNums=0B1220&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B" alt="Mohamed Aathif's GitHub contribution streak" /> </picture> </div>
+<div align="center"> <sub>Hiring for a software engineering role, or have a project in mind? Reach me at <a href="mailto:aathifmhd2000@gmail.com">aathifmhd2000@gmail.com</a>.</sub> </div>
